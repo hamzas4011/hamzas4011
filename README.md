@@ -10,7 +10,7 @@
 ### 🧑‍💻 Skills
 - 🖋️ **Languages**: HTML, CSS, JavaScript, Python
 - 🛠️ **Development**: Responsive Web Design, React.js, Accessibility (Universal Design)
-- ⚙️ **Tools**: GitHub,Trello, Figma, VS Code
+- ⚙️ **Tools**: GitHub, Trello, Figma, VS Code, PyCharm
 
 ---
 
