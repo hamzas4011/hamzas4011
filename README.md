@@ -9,18 +9,17 @@
 
 ### 🧑‍💻 Skills
 - **Languages**: HTML, CSS, JavaScript, Python
-- **Development**: Responsive Web Design, React.js, accessibility (universal design)
-- **Tools**: GitHub, Figma, VS Code, and other modern editors
+- **Development**: Responsive Web Design, React.js, Accessibility (Universal Design)
+- **Tools**: GitHub, Figma, VS Code
 
 ---
 
 ### 🚀 Featured Projects
-- [**Typing Tester** Repository](https://github.com/hamzas4011/Typing_Tester) – A fun app to test your typing speed
-- [**Coffee Shop Website** Live Demo](https://coffee-shop-ivory-seven.vercel.app/) – A modern, responsive web design for a coffee shop
-- [**Calculator App** Live Demo](https://calculator-app-two-beta.vercel.app/) – A simple calculator built with React
+- [**Typing Tester**](https://hamzas4011.vercel.app/) – A fun app to test your typing speed  
+  **Repository**: [View Code](https://github.com/hamzas4011/Typing_Tester)
 
----
+- [**Coffee Shop Website**](https://coffee-shop-ivory-seven.vercel.app/) – A modern, responsive web design for a coffee shop  
+  **Repository**: [View Code](https://github.com/hamzas4011/coffee-shop)
 
-### 📫 Let's Connect
-- **LinkedIn**: [Hamza Simsek](https://www.linkedin.com/in/hamza-simsek-033a14108/)
-- **Email**: [hamzas4011@hotmail.com](mailto:hamzas4011@hotmail.com)
+- [**Calculator App**](https://calculator-app-two-beta.vercel.app/) – A simple calculator built with React  
+  **Repository**: [View Code](https://github.com/hamzas4011/calculator)
