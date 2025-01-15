@@ -8,20 +8,12 @@
 ---
 
 ### 🧑‍💻 Skills
-- 🖋️ **Languages**: HTML, CSS, JavaScript, Python
+- 🖋️ **Languages**: HTML, CSS, JavaScript, Python, SQL
+- 🗄️ **Databases**: MySQL, MongoDB
 - ⚙️ **Tools**: GitHub, Trello, Figma, VS Code, PyCharm
 
 ---
 
-### 🚀 Featured Projects
-- 🔤 **Typing Tester**  
-  A fun app to test your typing speed.  
-  **Repository**: [View Code](https://github.com/hamzas4011/Typing_Tester)
-
-- ☕ [**Coffee Shop Website**](https://coffee-shop-ivory-seven.vercel.app/)  
-  A modern, responsive web design for a coffee shop.  
-  **Repository**: [View Code](https://github.com/hamzas4011/coffee-shop)
-
-- 🧮 [**Calculator App**](https://calculator-app-two-beta.vercel.app/)  
-  A simple calculator built with React.  
-  **Repository**: [View Code](https://github.com/hamzas4011/calculator)
+### 📬 Contact
+- 📄 [**LinkedIn**](https://www.linkedin.com/in/hamza-simsek-033a14108/)
+- ✉️ **Email**: hamzas4011@hotmail.com
