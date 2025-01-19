@@ -2,7 +2,7 @@
 
 - 👨‍💻 Web Developer focused on **Accessibility** and **Universal Design**
 - 🌟 Specialized in **Universal Design** with a Master's Degree in **Applied Computer and Information Technology**
-- 🌱 Currently learning **Node.js** and **Git** to strengthen my backend development skills
+- 🌱 Currently learning **Node.js** to strengthen my backend development skills
 - 🎯 Goal: To create impactful software solutions and grow as a **Full-Stack Developer**
 
 ---
