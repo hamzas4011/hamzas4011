@@ -1,6 +1,6 @@
 # Hi, I'm Hamza Simsek 👋
 
-- 👨‍💻 Full-stack developer focused on **Accessibility** and **Universal Design**
+- 👨‍💻 **Full-stack developer** focused on **Accessibility** and **Universal Design**
 - 🌟 Specialized in **Universal Design** with a Master's Degree in **Applied Computer and Information Technology**
 - 🌱 Currently learning **Node.js** to strengthen my backend development skills
 - 🎯 Goal: To create impactful software solutions and grow as a **Full-stack developer**
