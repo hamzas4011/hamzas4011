@@ -2,7 +2,7 @@
 
 - 👨‍💻 **Developer** focused on **Accessibility** and **Universal Design**
 - 🌟 Specialized in **Universal Design** with a Master's Degree in **Applied Computer and Information Technology**
-- 🌱 Currently learning **Node.js** to strengthen my backend development skills
+- 🌱 Currently learning **Next.js** to develop fullstack apps
 - 🎯 Goal: To create impactful software solutions and grow as a **developer**
 
 ---
