@@ -8,7 +8,7 @@
 ---
 
 ### 🧑‍💻 Skills
-- 🖋️ **Languages**: HTML, CSS, JavaScript, Python, SQL
+- 🖋️ **Languages**: HTML, CSS, JavaScript, Python, C# SQL
 - 🗄️ **Databases**: MySQL, MongoDB
 - ⚙️ **Tools**: GitHub, Trello, Figma, VS Code, PyCharm
 
