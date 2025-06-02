@@ -10,8 +10,8 @@
 
 ### 🧑‍💻 Skills
 
-- 🖋️ **Languages**: HTML, CSS, JavaScript, Python, C#, SQL  
-- 🌐 **Web**: React.js, Next.js, Tailwind CSS, TypeScript  
+- 🖋️ **Languages**: HTML, CSS, JavaScript, TypeScript Python, C#, SQL  
+- 🌐 **Web**: React.js, Next.js, Tailwind CSS
 - 📱 **Mobile**: React Native *(currently learning)*  
 - 🗄️ **Databases**: MySQL, MongoDB  
 - ⚙️ **Tools**: Git, GitHub, Trello, Figma, VS Code, PyCharm
