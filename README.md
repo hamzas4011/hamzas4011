@@ -17,8 +17,3 @@
 - ⚙️ **Tools**: Git, GitHub, Trello, Figma, VS Code, PyCharm
 
 ---
-
-### 📬 Contact
-
-- [**LinkedIn**](https://www.linkedin.com/in/hamza-simsek-033a14108/)  
-- ✉️ **Email**: hamzas4011@hotmail.com
