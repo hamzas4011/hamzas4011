@@ -2,7 +2,7 @@
 
 Developer with a master's degree in Applied Computer and Information Technology. I build fullstack applications and AI agents.
 
-- 🤖 Currently working with **AI agents**, **RAG** and **tool calling** using C#/.NET, React and Azure
+- 🤖 Currently working with **AI agents**, **RAG** and **tool calling**
 - 📜 Certified in **Azure AI Fundamentals (AI-901)**
 - ♿ I care about accessibility and inclusive user experiences in everything I build
 
