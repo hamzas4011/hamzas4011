@@ -11,10 +11,11 @@ Developer with a master's degree in Applied Computer and Information Technology.
 ### 🚀 Projects
 
 - **Portfolio** — my personal site with projects, skills and experience. Built with HTML, CSS and React. [Live](https://hamza-simsek.vercel.app/) · [Code](https://github.com/hamzas4011/personal-website)
-
+- **Din Blomst** - accessible flower shop website with a working cart and order flow, built with React, TypeScript and Tailwind CSS.
+[Live](https://din-blomst.vercel.app/) · [Code](https://github.com/hamzas4011/din-blomst)
+- **AnimeExplorer** — fullstack anime browser built with Next.js, TypeScript and Tailwind CSS. [Live](https://anime-search-explore.vercel.app/) · [Code](https://github.com/hamzas4011/anime-search)
 - **Local AI Agent** — agent built in Python with tool calling, conversation memory and external API integrations. [Code](https://github.com/hamzas4011/local-agent)
 - **AI-Powered Knowledge Assistant** — chatbot answering employee questions with source references to internal documents. Using C#/.NET, React, PostgreSQL and RAG via Microsoft Agent Framework. [Code](https://github.com/osale/Odinauto)
-- **AnimeExplorer** — fullstack anime browser built with Next.js, TypeScript and Tailwind CSS. [Live](https://anime-search-explore.vercel.app/) · [Code](https://github.com/hamzas4011/anime-search)
 
 ---
 
