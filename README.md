@@ -12,7 +12,7 @@ Developer with a master's degree in Applied Computer and Information Technology.
 
 - **Portfolio** — my personal site with projects, skills and experience. Developed with HTML, CSS and React. [Live](https://hamza-simsek.vercel.app/) · [Code](https://github.com/hamzas4011/personal-website)
 - **Local AI Agent** — agent built in Python with tool calling, conversation memory and external API integrations. [Code](https://github.com/hamzas4011/local-agent)
-- **Din Blomst** — flower shop website with a working cart and order flow, built with React, TypeScript and Tailwind CSS.
+- **Din Blomst** — flower shop website with a working cart and order flow, developed with React, TypeScript and Tailwind CSS.
 [Live](https://din-blomst.vercel.app/) · [Code](https://github.com/hamzas4011/din-blomst)
 - **Anime Explorer** — fullstack app built with Next.js, TypeScript and Tailwind CSS. [Live](https://anime-search-explore.vercel.app/) · [Code](https://github.com/hamzas4011/anime-search)
 
