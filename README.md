@@ -2,7 +2,7 @@
 
 Developer with a master's degree in Applied Computer and Information Technology. I build fullstack applications and AI agents.
 
-- 🤖 Currently working with  **.NET**, **Azure**, and **AI agents**
+- 🤖 Currently working with **.NET**, **Azure** and **AI agents**
 - 📜 Certified in **Azure AI Fundamentals (AI-901)**
 - ♿ I care about accessibility and inclusive user experiences in everything I build
 
@@ -10,11 +10,10 @@ Developer with a master's degree in Applied Computer and Information Technology.
 
 ### 🚀 Projects
 
-- **Anime Explorer** — fullstack app built with Next.js, TypeScript and Tailwind CSS. [Live](https://anime-search-explore.vercel.app/) · [Code](https://github.com/hamzas4011/anime-search)
-- **Portfolio** — my personal site with projects, skills and experience. Developed with HTML, CSS and React. [Live](https://hamza-simsek.vercel.app/) · [Code](https://github.com/hamzas4011/personal-website)
-- **Local AI Agent** — agent built in Python with tool calling, conversation memory and external API integrations. [Code](https://github.com/hamzas4011/local-agent)
-- **Din Blomst** — flower shop website with a working cart and order flow, developed with React, TypeScript and Tailwind CSS.
-[Live](https://din-blomst.vercel.app/) · [Code](https://github.com/hamzas4011/din-blomst)
+- **Anime Explorer**: Fullstack app built with Next.js, TypeScript and Tailwind CSS, with AI-powered anime recommendations via the Claude API. [Live](https://anime-search-explore.vercel.app/) · [Code](https://github.com/hamzas4011/anime-explorer)
+- **Din Blomst**: Accessible flower shop built with React, TypeScript and Tailwind CSS, with an AI assistant that recommends bouquets via the Claude API. [Live](https://din-blomst.vercel.app/) · [Code](https://github.com/hamzas4011/din-blomst)
+- **Local AI Agent**: Agent built in Python with Ollama and LangChain, featuring tool calling, conversation memory and external API integrations. [Code](https://github.com/hamzas4011/local-agent)
+- **Portfolio**: My personal site with projects, skills and experience, built with React. [Live](https://hamza-simsek.vercel.app/) · [Code](https://github.com/hamzas4011/personal-website)
 
 ---
 
@@ -23,6 +22,6 @@ Developer with a master's degree in Applied Computer and Information Technology.
 - 🖋️ **Languages:** C#, TypeScript, JavaScript, Python
 - ⚙️ **Backend:** .NET, Node.js, REST APIs
 - 🌐 **Frontend:** React, Next.js, Blazor, Tailwind CSS
-- 🤖 **AI:** Microsoft Agent Framework, Microsoft Foundry, RAG
+- 🤖 **AI:** Claude API, LangChain, Ollama, Microsoft Agent Framework, Microsoft Foundry, RAG
 - 🗄️ **Databases:** PostgreSQL, MySQL
 - ☁️ **Cloud and tools:** Azure, Git, CI/CD, Linux, VS Code
